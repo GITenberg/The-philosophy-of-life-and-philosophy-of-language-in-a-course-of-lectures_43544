@@ -1,0 +1,52 @@
+_repo: The-philosophy-of-life-and-philosophy-of-language-in-a-course-of-lectures_43544
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Morrison, A. J. W. (Alexander James William)
+    alias: Morrison, Alexander James William
+    birthdate: 1806
+    deathdate: 1865
+    gutenberg_agent_id: '36435'
+    url: http://www.gutenberg.org/2009/agents/36435
+covers:
+- cover_type: archival
+  image_path: 43544-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Schlegel, Friedrich von
+    aliases:
+    - Schlegel, Friedrich
+    - Schlegel, Karl Wilhelm Friedrich von
+    - Von Schlegel, Friedrich
+    birthdate: 1772
+    deathdate: 1829
+    gutenberg_agent_id: '35760'
+    url: http://www.gutenberg.org/2009/agents/35760
+description: '"These fifteen Lectures on the Philosophy of Life are intended to give,
+  as far as is possible, a clear and succinct exposition of the following subjects.
+  The first five treat of the soul, 1, as the centre of consciousness: 2, as the centre
+  of moral life: 3, as co-operating with mind in the acquisition of knowledge: 4,
+  in its relation to nature: 5, in its relation to God. The next three investigate
+  the laws of Divine Wisdom and Providence, as manifested in the system of Nature,
+  the World of Thought, and the evidences of History. The subject-matter of the remaining
+  seven is the unfolding of the spirit [or spiritual nature] of man, in consciousness
+  and in science; in external life and its great social relations; in its struggle
+  with the age; and in its course of restoration through the several grades of human
+  development, until it arrives at the end and aim of perfection. The second section
+  of this book presents Lectures on the Philosophy of Language." (PsycINFO Database
+  Record (c) 2009 APA, all rights reserved).'
+gutenberg_issued: '2013-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43544'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Language and languages -- Philosophy'
+- !lcsh 'Life'
+- !lcc 'B'
+- !lcsh 'Philosophy'
+title: The philosophy of life, and philosophy of language, in a course of lectures
+url: http://www.gutenberg.org/ebooks/43544
